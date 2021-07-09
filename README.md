@@ -1,3 +1,55 @@
+Esta app está hecha totalmente en React, y en Expo Go. 
+
+Se trata de una app de tareas diarias en la cual podrás añadirlas y borrarlas.
+
+
+---
+
+This app is made entirely in React, and in Expo Go.
+
+It is a daily tasks app in which you can add and delete them.
+
+
+---
+
+Capturas:
+
+![1625850405806](https://user-images.githubusercontent.com/32551746/125114161-dfb33e80-e0e9-11eb-9521-01145c430c2e.jpg)
+![1625849622582](https://user-images.githubusercontent.com/32551746/125114165-e04bd500-e0e9-11eb-8a94-f7121bb2f948.jpg)
+
+<div align="center">Donde me puedes encontrar:</div>
+
+:earth_africa: Portafolios **[Portafolios](https://jairosanchezb94.github.io/Portafolio-2/)**
+
+:book: Facebook **[Facebook](https://www.facebook.com/jairosanh)**
+
+:blue_heart: Linkedin **[Linkedin](https://www.linkedin.com/in/jairo-s%C3%A1nchez-64416a12b/)**
+
+
+---
+
+# Expo Go 
+
+## > Why do I have a folder named ".expo" in my project?
+
+The ".expo" folder is created when an Expo project is started using "expo start" command.
+
+## > What does the "packager-info.json" file contain?
+
+The "packager-info.json" file contains port numbers and process PIDs that are used to serve the application to the mobile device/simulator.
+
+## > What does the "settings.json" file contain?
+
+The "settings.json" file contains the server configuration that is used to serve the application manifest.
+
+## > Should I commit the ".expo" folder?
+
+No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
+
+Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
